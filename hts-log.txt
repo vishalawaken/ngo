@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 11 Jan 2024 19:01:29 at https://html.dynamiclayers.net/dl/charitify/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://html.dynamiclayers.net/dl/charitify/index.html -O1 "C:\My Web Sites\Ngo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:02:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://html.dynamiclayers.net/dl/charitify/index-2.html (from https://html.dynamiclayers.net/dl/charitify/index.html)
+19:02:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://html.dynamiclayers.net/dl/charitify/js/vendor/bootstrap.min.js (from https://html.dynamiclayers.net/dl/charitify/index.html)
+19:02:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://html.dynamiclayers.net/dl/charitify/fonts/fontawesome-webfont.eot? (from https://html.dynamiclayers.net/dl/charitify/css/font-awesome.min.css)
+19:02:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://html.dynamiclayers.net/dl/charitify/fonts/et-line.svg (from https://html.dynamiclayers.net/dl/charitify/css/elegant-line-icons.css)
+19:02:48	Error: 	"Not Found" (404) at link https://html.dynamiclayers.net/dl/charitify/css/owl.video.play.png (from https://html.dynamiclayers.net/dl/charitify/css/owl.carousel.css)
+19:02:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://html.dynamiclayers.net/dl/charitify/img/map.png (from https://html.dynamiclayers.net/dl/charitify/css/main.css)
+19:02:48	Error: 	"Not Found" (404) at link https://html.dynamiclayers.net/dl/charitify/GET (from https://html.dynamiclayers.net/dl/charitify/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js)
+19:02:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://html.dynamiclayers.net/dl/charitify/js/vendor/bootstrap.min.js (from https://html.dynamiclayers.net/dl/charitify/index.html)
+19:02:48	Error: 	"Not Found" (404) at link https://html.dynamiclayers.net/dl/charitify/You must include the utils.js file before tether.js (from https://html.dynamiclayers.net/dl/charitify/js/vendor/tether.min.js)
+19:02:50	Error: 	"Not Found" (404) at link https://html.dynamiclayers.net/dl/charitify/popper.js (from https://html.dynamiclayers.net/dl/charitify/js/vendor/bootstrap.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 21 seconds : 138 links scanned, 127 files written (9203299 bytes overall) [7230513 bytes received at 89265 bytes/sec], 3161381 bytes transferred using HTTP compression in 64 files, ratio 35%, 12.5 requests per connection
+(4 errors, 6 warnings, 0 messages)
